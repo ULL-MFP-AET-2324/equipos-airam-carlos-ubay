@@ -38,3 +38,13 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
   * [Airam](https://github.com/falcon47)  
   * [Carlos](https://github.com/alu0100596113)
   * [Javier](https://github.com/alu0100825145)
+ 
+ ## Alumno 4 (Javier Castro González)
+
+* [GH Classroom](https://classroom.github.com/classrooms/149103949-ull-mfp-aet-2324-alu0100825145)
+* [Organización de Clase](https://github.com/ull-mfp-aet-2324-alu0100825145)
+* [Profesor](https://github.com/alu0100825145)
+* Alumnos en la organización
+  * [Airam](https://github.com/falcon47)  
+  * [Carlos](https://github.com/alu0100596113)
+  * [Ubay](https://github.com/Ubaygdl)

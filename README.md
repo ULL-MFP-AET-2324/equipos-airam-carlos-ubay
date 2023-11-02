@@ -19,14 +19,15 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
   * [Ubay](https://github.com/Ubaygdl)
   * [Javier](https://github.com/alu0100825145)
 
-## Alumno 2
+## Alumno 2 (Carlos Barreda Falciano)
 
 * [GH Classroom]()
-* [Organización de Clase]()
-* [Profesor]()
+* [Organización de Clase](https://github.com/ull-mfp-aet-2324-alu0100596113)
+* [Profesor](https://github.com/alu0100596113)
 * Alumnos en la organización
-  * [Alumno 1]()
-  * [Alumno 2]()
+  * [Airam](https://github.com/falcon47)  
+  * [Ubay](https://github.com/Ubaygdl)
+  * [Javier](https://github.com/alu0100825145)
 
 ## Alumno 3 (Ubay Guillermo De León)
 

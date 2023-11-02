@@ -21,7 +21,7 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 
 ## Alumno 2 (Carlos Barreda Falciano)
 
-* [GH Classroom]()
+* [GH Classroom](https://classroom.github.com/classrooms/149103989-ull-mfp-aet-2324-alu0100596113)
 * [Organización de Clase](https://github.com/ull-mfp-aet-2324-alu0100596113)
 * [Profesor](https://github.com/alu0100596113)
 * Alumnos en la organización

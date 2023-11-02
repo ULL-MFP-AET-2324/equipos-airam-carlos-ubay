@@ -9,14 +9,15 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 * Tu organización GH como teacher
 * Enlaces a los GH profiles de los otros miembros del equipo como alumnos
 
-## Alumno 1
+## Alumno 1 (Airam González Hernández)
 
 * [GH Classroom](https://classroom.github.com/classrooms/149101458-ull-mfp-aet-2324-alu0100615975)
-* [Organización de Clase]()
-* [Profesor]()
+* [Organización de Clase](https://github.com/ull-mfp-aet-2324-alu0100615975)
+* [Profesor](https://github.com/falcon47)
 * Alumnos en la organización
-  * [Alumno 1]()
-  * [Alumno 2]()
+  * [Carlos](https://github.com/alu0100596113)
+  * [Ubay](https://github.com/Ubaygdl)
+  * [Javier](https://github.com/alu0100825145)
 
 ## Alumno 2
 

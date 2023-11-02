@@ -11,7 +11,7 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 
 ## Alumno 1
 
-* [GH Classroom]()
+* [GH Classroom](https://classroom.github.com/classrooms/149101458-ull-mfp-aet-2324-alu0100615975)
 * [Organización de Clase]()
 * [Profesor]()
 * Alumnos en la organización
